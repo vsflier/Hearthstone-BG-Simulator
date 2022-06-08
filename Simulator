@@ -1,0 +1,7 @@
+echo "# Hearthstone-BG-Simulator" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/vsflier/Hearthstone-BG-Simulator.git
+git push -u origin main
